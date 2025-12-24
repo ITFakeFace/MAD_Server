@@ -43,7 +43,7 @@ const teachersData = [
     fullname: 'Nguyễn Thầy A',
     gender: true, // Nam
     dob: new Date('1985-05-15'),
-    avatar: '\\public\\default\\users\\defaultAvatar.png',
+    avatar: '\\public\\default\\users\\default.png',
   },
   {
     pID: 'GV002',
@@ -53,7 +53,7 @@ const teachersData = [
     fullname: 'Trần Cô B',
     gender: false, // Nữ
     dob: new Date('1990-10-20'),
-    avatar: '\\public\\default\\users\\defaultAvatar.png',
+    avatar: '\\public\\default\\users\\default.png',
   },
 ];
 
@@ -66,7 +66,7 @@ const studentsData = [
     fullname: 'Lê Học Trò 1',
     gender: true, // Nam
     dob: new Date('2003-01-01'),
-    avatar: '\\public\\default\\users\\defaultAvatar.png',
+    avatar: '\\public\\default\\users\\default.png',
   },
   {
     pID: 'HV002',
@@ -76,7 +76,7 @@ const studentsData = [
     fullname: 'Phạm Học Trò 2',
     gender: false, // Nữ
     dob: new Date('2003-06-15'),
-    avatar: '\\public\\default\\users\\defaultAvatar.png',
+    avatar: '\\public\\default\\users\\default.png',
   },
   {
     pID: 'HV003',
@@ -86,7 +86,7 @@ const studentsData = [
     fullname: 'Hoàng Học Trò 3',
     gender: true, // Nam
     dob: new Date('2004-12-25'),
-    avatar: '\\public\\default\\users\\defaultAvatar.png',
+    avatar: '\\public\\default\\users\\default.png',
   },
 ];
 
