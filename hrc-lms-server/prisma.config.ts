@@ -8,6 +8,6 @@ export default defineConfig({
   
   engine: "classic",
   datasource: {
-    url: "mysql://root:DoThanhHung66%404@localhost:3306/KLTN_HRC_JS",
+    url: process.env.DATABASE_URL || env("DATABASE_URL") || "mysql://root:TTiNHCosufefPoJBJkctZSlFBMrGIeOI@centerbeam.proxy.rlwy.net:21516/railway",
   },
 });
